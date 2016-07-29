@@ -12,7 +12,7 @@
     <mtx name="Adieresis" width="653" lsb="-8"/>
     <mtx name="Agrave" width="653" lsb="-8"/>
     <mtx name="Amacron" width="653" lsb="-8"/>
-    <mtx name="Aogonek" width="677" lsb="-8"/>
+    <mtx name="Aogonek" width="653" lsb="-8"/>
     <mtx name="Aring" width="653" lsb="-8"/>
     <mtx name="Aringacute" width="653" lsb="-8"/>
     <mtx name="Atilde" width="653" lsb="-8"/>
@@ -26,7 +26,7 @@
     <mtx name="Cdotaccent" width="606" lsb="35"/>
     <mtx name="D" width="712" lsb="35"/>
     <mtx name="Dcaron" width="712" lsb="35"/>
-    <mtx name="Dcroat" width="707" lsb="31"/>
+    <mtx name="Dcroat" width="721" lsb="40"/>
     <mtx name="E" width="581" lsb="35"/>
     <mtx name="Eacute" width="581" lsb="35"/>
     <mtx name="Ebreve" width="581" lsb="35"/>
@@ -70,7 +70,7 @@
     <mtx name="Kcommaaccent" width="647" lsb="35"/>
     <mtx name="L" width="523" lsb="35"/>
     <mtx name="Lacute" width="534" lsb="35"/>
-    <mtx name="Lcaron" width="534" lsb="7"/>
+    <mtx name="Lcaron" width="534" lsb="35"/>
     <mtx name="Lcommaaccent" width="534" lsb="35"/>
     <mtx name="Ldot" width="523" lsb="35"/>
     <mtx name="Lslash" width="523" lsb="35"/>
@@ -102,9 +102,9 @@
     <mtx name="Rcaron" width="636" lsb="35"/>
     <mtx name="Rcommaaccent" width="636" lsb="35"/>
     <mtx name="S" width="536" lsb="39"/>
-    <mtx name="Sacute" width="536" lsb="42"/>
+    <mtx name="Sacute" width="536" lsb="39"/>
     <mtx name="Sacute.loclPLK" width="536" lsb="39"/>
-    <mtx name="Scaron" width="536" lsb="42"/>
+    <mtx name="Scaron" width="536" lsb="39"/>
     <mtx name="Scedilla" width="536" lsb="42"/>
     <mtx name="Scircumflex" width="536" lsb="39"/>
     <mtx name="Scommaaccent" width="536" lsb="42"/>
@@ -248,7 +248,7 @@
     <mtx name="germandbls" width="621" lsb="19"/>
     <mtx name="grave" width="212" lsb="0"/>
     <mtx name="gravecomb" width="0" lsb="-212"/>
-    <mtx name="gravecomb.case" width="0" lsb="-251"/>
+    <mtx name="gravecomb.case" width="0" lsb="-250"/>
     <mtx name="greater" width="530" lsb="32"/>
     <mtx name="greaterequal" width="530" lsb="26"/>
     <mtx name="guillemotleft" width="416" lsb="12"/>

@@ -22,6 +22,11 @@ Licensed under the [*SIL Open Font License, 1.1*](http://scripts.sil.org/OFL); y
 
 This file provides detailed information on the Faustina font sources.  
 
+**2016 July 28 (v1.006) compatible masters - Nicolás Silva Schwarzenberg**
+
+- Sources with compatible paths
+- New Medium weight
+- New Semibold weight
 
 **2016 June 4 (v1.005) Initial Commit - Nicolás Silva Schwarzenberg**
 

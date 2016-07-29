@@ -3,7 +3,7 @@
 
   <name>
     <namerecord nameID="0" platformID="1" platEncID="0" langID="0x0" unicode="True">
-      Copyright © 2014 by Omnibus-Type. All rights reserved.
+      Copyright © 2014-2016 by Omnibus-Type. All rights reserved.
     </namerecord>
     <namerecord nameID="1" platformID="1" platEncID="0" langID="0x0" unicode="True">
       Faustina
@@ -12,13 +12,13 @@
       Regular
     </namerecord>
     <namerecord nameID="3" platformID="1" platEncID="0" langID="0x0" unicode="True">
-      1.005;OMNI;Faustina-Regular
+      1.006;OMNI;Faustina-Regular
     </namerecord>
     <namerecord nameID="4" platformID="1" platEncID="0" langID="0x0" unicode="True">
       Faustina
     </namerecord>
     <namerecord nameID="5" platformID="1" platEncID="0" langID="0x0" unicode="True">
-      Version 1.035; ttfautohint (v1.4)
+      Version 1.006; ttfautohint (v1.5)
     </namerecord>
     <namerecord nameID="6" platformID="1" platEncID="0" langID="0x0" unicode="True">
       Faustina-Regular
@@ -39,7 +39,7 @@
       http://www.omnibus-type.com/garcia
     </namerecord>
     <namerecord nameID="0" platformID="3" platEncID="1" langID="0x409">
-      Copyright © 2014 by Omnibus-Type. All rights reserved.
+      Copyright © 2014-2016 by Omnibus-Type. All rights reserved.
     </namerecord>
     <namerecord nameID="1" platformID="3" platEncID="1" langID="0x409">
       Faustina
@@ -48,13 +48,13 @@
       Regular
     </namerecord>
     <namerecord nameID="3" platformID="3" platEncID="1" langID="0x409">
-      1.005;OMNI;Faustina-Regular
+      1.006;OMNI;Faustina-Regular
     </namerecord>
     <namerecord nameID="4" platformID="3" platEncID="1" langID="0x409">
       Faustina-Regular
     </namerecord>
     <namerecord nameID="5" platformID="3" platEncID="1" langID="0x409">
-      Version 1.035; ttfautohint (v1.4)
+      Version 1.006; ttfautohint (v1.5)
     </namerecord>
     <namerecord nameID="6" platformID="3" platEncID="1" langID="0x409">
       Faustina-Regular

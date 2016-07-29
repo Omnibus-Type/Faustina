@@ -6,16 +6,16 @@
     <mtx name="A" width="510" lsb="-51"/>
     <mtx name="AE" width="691" lsb="-101"/>
     <mtx name="AEacute" width="691" lsb="-101"/>
-    <mtx name="Aacute" width="510" lsb="-57"/>
-    <mtx name="Abreve" width="510" lsb="-57"/>
-    <mtx name="Acircumflex" width="510" lsb="-57"/>
-    <mtx name="Adieresis" width="510" lsb="-57"/>
-    <mtx name="Agrave" width="510" lsb="-57"/>
-    <mtx name="Amacron" width="510" lsb="-57"/>
-    <mtx name="Aogonek" width="510" lsb="-57"/>
-    <mtx name="Aring" width="510" lsb="-57"/>
+    <mtx name="Aacute" width="510" lsb="-51"/>
+    <mtx name="Abreve" width="510" lsb="-51"/>
+    <mtx name="Acircumflex" width="510" lsb="-51"/>
+    <mtx name="Adieresis" width="510" lsb="-51"/>
+    <mtx name="Agrave" width="510" lsb="-51"/>
+    <mtx name="Amacron" width="510" lsb="-51"/>
+    <mtx name="Aogonek" width="510" lsb="-51"/>
+    <mtx name="Aring" width="510" lsb="-51"/>
     <mtx name="Aringacute" width="510" lsb="-51"/>
-    <mtx name="Atilde" width="510" lsb="-57"/>
+    <mtx name="Atilde" width="510" lsb="-51"/>
     <mtx name="B" width="543" lsb="16"/>
     <mtx name="C" width="532" lsb="44"/>
     <mtx name="Cacute" width="532" lsb="44"/>
@@ -362,7 +362,7 @@
     <mtx name="s" width="400" lsb="16"/>
     <mtx name="sacute" width="400" lsb="18"/>
     <mtx name="sacute.loclPLK" width="400" lsb="16"/>
-    <mtx name="scaron" width="400" lsb="18"/>
+    <mtx name="scaron" width="400" lsb="16"/>
     <mtx name="scedilla" width="400" lsb="18"/>
     <mtx name="scircumflex" width="400" lsb="16"/>
     <mtx name="scommaaccent" width="400" lsb="18"/>

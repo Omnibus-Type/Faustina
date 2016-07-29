@@ -208,13 +208,13 @@
     <mtx name="dotbelowcomb" width="0" lsb="-200"/>
     <mtx name="dotlessi" width="300" lsb="36"/>
     <mtx name="e" width="420" lsb="29"/>
-    <mtx name="eacute" width="420" lsb="25"/>
+    <mtx name="eacute" width="420" lsb="29"/>
     <mtx name="ebreve" width="420" lsb="29"/>
     <mtx name="ecaron" width="420" lsb="25"/>
-    <mtx name="ecircumflex" width="420" lsb="25"/>
-    <mtx name="edieresis" width="420" lsb="25"/>
+    <mtx name="ecircumflex" width="420" lsb="29"/>
+    <mtx name="edieresis" width="420" lsb="29"/>
     <mtx name="edotaccent" width="420" lsb="25"/>
-    <mtx name="egrave" width="420" lsb="25"/>
+    <mtx name="egrave" width="420" lsb="29"/>
     <mtx name="eight" width="500" lsb="21"/>
     <mtx name="eight.osf" width="500" lsb="19"/>
     <mtx name="ellipsis" width="525" lsb="-8"/>
@@ -349,7 +349,7 @@
     <mtx name="quotedblleft" width="330" lsb="41"/>
     <mtx name="quotedblright" width="350" lsb="41"/>
     <mtx name="quoteleft" width="166" lsb="41"/>
-    <mtx name="quoteright" width="150" lsb="35"/>
+    <mtx name="quoteright" width="150" lsb="41"/>
     <mtx name="quotesinglbase" width="166" lsb="-4"/>
     <mtx name="quotesingle" width="207" lsb="83"/>
     <mtx name="r" width="355" lsb="41"/>
@@ -362,7 +362,7 @@
     <mtx name="s" width="400" lsb="-1"/>
     <mtx name="sacute" width="410" lsb="-2"/>
     <mtx name="sacute.loclPLK" width="400" lsb="-1"/>
-    <mtx name="scaron" width="410" lsb="-2"/>
+    <mtx name="scaron" width="410" lsb="-1"/>
     <mtx name="scedilla" width="400" lsb="-1"/>
     <mtx name="scircumflex" width="400" lsb="-1"/>
     <mtx name="scommaaccent" width="400" lsb="-2"/>

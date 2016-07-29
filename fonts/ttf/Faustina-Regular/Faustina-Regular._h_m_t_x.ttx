@@ -26,8 +26,8 @@
     <mtx name="Ccircumflex" width="612" lsb="45"/>
     <mtx name="Cdotaccent" width="612" lsb="45"/>
     <mtx name="D" width="703" lsb="55"/>
-    <mtx name="Dcaron" width="707" lsb="59"/>
-    <mtx name="Dcroat" width="707" lsb="57"/>
+    <mtx name="Dcaron" width="707" lsb="55"/>
+    <mtx name="Dcroat" width="712" lsb="57"/>
     <mtx name="E" width="572" lsb="55"/>
     <mtx name="Eacute" width="572" lsb="55"/>
     <mtx name="Ebreve" width="572" lsb="55"/>
@@ -299,15 +299,15 @@
     <mtx name="minus" width="530" lsb="67"/>
     <mtx name="multiply" width="530" lsb="86"/>
     <mtx name="n" width="576" lsb="26"/>
-    <mtx name="nacute" width="576" lsb="22"/>
+    <mtx name="nacute" width="576" lsb="26"/>
     <mtx name="nacute.loclPLK" width="576" lsb="26"/>
     <mtx name="napostrophe" width="600" lsb="10"/>
-    <mtx name="ncaron" width="576" lsb="22"/>
-    <mtx name="ncommaaccent" width="576" lsb="22"/>
+    <mtx name="ncaron" width="576" lsb="26"/>
+    <mtx name="ncommaaccent" width="576" lsb="26"/>
     <mtx name="nine" width="485" lsb="24"/>
     <mtx name="nine.osf" width="489" lsb="27"/>
     <mtx name="notequal" width="530" lsb="63"/>
-    <mtx name="ntilde" width="576" lsb="22"/>
+    <mtx name="ntilde" width="576" lsb="26"/>
     <mtx name="numbersign" width="530" lsb="-2"/>
     <mtx name="o" width="497" lsb="25"/>
     <mtx name="oacute" width="521" lsb="40"/>

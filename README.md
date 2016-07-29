@@ -49,6 +49,12 @@ This information should be distributed along with the Faustina fonts and any der
 
 *To contribute to the project contact Omnibus-Type at omnibus.type@gmail.com*
 
+**2016 July 28 (v1.006) compatible masters - Nicolás Silva Schwarzenberg**
+
+- Sources with compatible paths
+- New Medium weight
+- New Semibold weight
+
 **2016 June 4 (v1.005) Initial Commit - Nicolás Silva Schwarzenberg**
 
 - Initial Commit
