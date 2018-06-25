@@ -1,6 +1,6 @@
 {
-.appVersion = "909";
-copyright = "Copyright © 2014-2016 by Omnibus-Type. All rights reserved.";
+.appVersion = "1147";
+copyright = "Copyright 2016 The Faustina Project Authors (https://github.com/Omnibus-Type/Faustina)";
 customParameters = (
 {
 name = description;
@@ -36545,17 +36545,21 @@ layers = (
 hints = (
 {
 place = "{28, 88}";
+type = Stem;
 },
 {
 place = "{404, 88}";
+type = Stem;
 },
 {
 horizontal = 1;
 place = "{-10, 50}";
+type = Stem;
 },
 {
 horizontal = 1;
 place = "{609, 52}";
+type = Stem;
 }
 );
 layerId = "8C17F4AC-C384-4A1F-BD5F-821C12AF061A";
@@ -36607,17 +36611,21 @@ width = 522;
 hints = (
 {
 place = "{32, 148}";
+type = Stem;
 },
 {
 place = "{403, 148}";
+type = Stem;
 },
 {
 horizontal = 1;
 place = "{-11, 67}";
+type = Stem;
 },
 {
 horizontal = 1;
 place = "{595, 65}";
+type = Stem;
 }
 );
 layerId = "4E675A61-A531-4354-B628-4B264391FE65";
@@ -36757,14 +36765,17 @@ layers = (
 hints = (
 {
 place = "{346, 85}";
+type = Stem;
 },
 {
 horizontal = 1;
 place = "{0, 69}";
+type = Stem;
 },
 {
 horizontal = 1;
 place = "{587, 73}";
+type = Stem;
 }
 );
 layerId = "8C17F4AC-C384-4A1F-BD5F-821C12AF061A";
@@ -36810,14 +36821,17 @@ width = 470;
 hints = (
 {
 place = "{308, 141}";
+type = Stem;
 },
 {
 horizontal = 1;
 place = "{0, 93}";
+type = Stem;
 },
 {
 horizontal = 1;
 place = "{568, 92}";
+type = Stem;
 }
 );
 layerId = "4E675A61-A531-4354-B628-4B264391FE65";
@@ -36871,24 +36885,30 @@ layers = (
 hints = (
 {
 place = "{-8, 73}";
+type = Stem;
 },
 {
 place = "{309, 84}";
+type = Stem;
 },
 {
 place = "{314, 70}";
+type = Stem;
 },
 {
 horizontal = 1;
 place = "{-10, 50}";
+type = Stem;
 },
 {
 horizontal = 1;
 place = "{314, 53}";
+type = Stem;
 },
 {
 horizontal = 1;
 place = "{591, 69}";
+type = Stem;
 }
 );
 layerId = "8C17F4AC-C384-4A1F-BD5F-821C12AF061A";
@@ -36952,21 +36972,26 @@ width = 440;
 hints = (
 {
 place = "{275, 139}";
+type = Stem;
 },
 {
 place = "{287, 127}";
+type = Stem;
 },
 {
 horizontal = 1;
 place = "{-11, 75}";
+type = Stem;
 },
 {
 horizontal = 1;
 place = "{302, 70}";
+type = Stem;
 },
 {
 horizontal = 1;
 place = "{570, 90}";
+type = Stem;
 }
 );
 layerId = "4E675A61-A531-4354-B628-4B264391FE65";
@@ -37039,6 +37064,7 @@ hints = (
 {
 horizontal = 1;
 place = "{182, 60}";
+type = Stem;
 },
 {
 horizontal = 1;
@@ -37085,10 +37111,12 @@ hints = (
 {
 horizontal = 1;
 place = "{0, 234}";
+type = Stem;
 },
 {
 horizontal = 1;
 place = "{150, 84}";
+type = Stem;
 },
 {
 horizontal = 1;
@@ -37142,17 +37170,21 @@ layers = (
 hints = (
 {
 place = "{-6, 73}";
+type = Stem;
 },
 {
 place = "{315, 87}";
+type = Stem;
 },
 {
 horizontal = 1;
 place = "{-10, 50}";
+type = Stem;
 },
 {
 horizontal = 1;
 place = "{572, 76}";
+type = Stem;
 },
 {
 horizontal = 1;
@@ -37205,18 +37237,22 @@ width = 460;
 hints = (
 {
 place = "{268, 139}";
+type = Stem;
 },
 {
 horizontal = 1;
 place = "{-11, 67}";
+type = Stem;
 },
 {
 horizontal = 1;
 place = "{543, 105}";
+type = Stem;
 },
 {
 horizontal = 1;
 place = "{543, 158}";
+type = Stem;
 }
 );
 layerId = "4E675A61-A531-4354-B628-4B264391FE65";
@@ -37271,17 +37307,21 @@ layers = (
 hints = (
 {
 place = "{36, 91}";
+type = Stem;
 },
 {
 place = "{360, 88}";
+type = Stem;
 },
 {
 horizontal = 1;
 place = "{-10, 50}";
+type = Stem;
 },
 {
 horizontal = 1;
 place = "{331, 61}";
+type = Stem;
 },
 {
 horizontal = 1;
@@ -37343,17 +37383,21 @@ width = 495;
 hints = (
 {
 place = "{22, 139}";
+type = Stem;
 },
 {
 place = "{344, 134}";
+type = Stem;
 },
 {
 horizontal = 1;
 place = "{-11, 73}";
+type = Stem;
 },
 {
 horizontal = 1;
 place = "{325, 85}";
+type = Stem;
 },
 {
 horizontal = 1;
@@ -37424,6 +37468,7 @@ hints = (
 {
 horizontal = 1;
 place = "{572, 76}";
+type = Stem;
 },
 {
 horizontal = 1;
@@ -37458,10 +37503,12 @@ hints = (
 {
 horizontal = 1;
 place = "{460, 188}";
+type = Stem;
 },
 {
 horizontal = 1;
 place = "{543, 105}";
+type = Stem;
 },
 {
 horizontal = 1;
@@ -37503,23 +37550,29 @@ layers = (
 hints = (
 {
 place = "{22, 83}";
+type = Stem;
 },
 {
 place = "{84, 75}";
+type = Stem;
 },
 {
 place = "{334, 75}";
+type = Stem;
 },
 {
 place = "{336, 73}";
+type = Stem;
 },
 {
 horizontal = 1;
 place = "{-11, 51}";
+type = Stem;
 },
 {
 horizontal = 1;
 place = "{610, 50}";
+type = Stem;
 }
 );
 layerId = "8C17F4AC-C384-4A1F-BD5F-821C12AF061A";
@@ -37594,23 +37647,29 @@ width = 470;
 hints = (
 {
 place = "{21, 124}";
+type = Stem;
 },
 {
 place = "{78, 126}";
+type = Stem;
 },
 {
 place = "{335, 117}";
+type = Stem;
 },
 {
 place = "{365, 112}";
+type = Stem;
 },
 {
 horizontal = 1;
 place = "{-11, 67}";
+type = Stem;
 },
 {
 horizontal = 1;
 place = "{590, 70}";
+type = Stem;
 }
 );
 layerId = "4E675A61-A531-4354-B628-4B264391FE65";
@@ -37693,21 +37752,26 @@ layers = (
 hints = (
 {
 place = "{52, 88}";
+type = Stem;
 },
 {
 place = "{367, 92}";
+type = Stem;
 },
 {
 horizontal = 1;
 place = "{-9, 38}";
+type = Stem;
 },
 {
 horizontal = 1;
 place = "{237, 55}";
+type = Stem;
 },
 {
 horizontal = 1;
 place = "{609, 51}";
+type = Stem;
 }
 );
 layerId = "8C17F4AC-C384-4A1F-BD5F-821C12AF061A";
@@ -37773,21 +37837,26 @@ width = 495;
 hints = (
 {
 place = "{38, 141}";
+type = Stem;
 },
 {
 place = "{362, 140}";
+type = Stem;
 },
 {
 horizontal = 1;
 place = "{-11, 56}";
+type = Stem;
 },
 {
 horizontal = 1;
 place = "{218, 86}";
+type = Stem;
 },
 {
 horizontal = 1;
 place = "{595, 65}";
+type = Stem;
 }
 );
 layerId = "4E675A61-A531-4354-B628-4B264391FE65";
@@ -54591,8 +54660,8 @@ value = "--default-script=latn --fallback-script=latn --windows-compatibility --
 interpolationWeight = 88;
 interpolationWidth = 5;
 instanceInterpolations = {
-"4E675A61-A531-4354-B628-4B264391FE65" = 0.298246;
-"8C17F4AC-C384-4A1F-BD5F-821C12AF061A" = 0.701754;
+"4E675A61-A531-4354-B628-4B264391FE65" = 0.29825;
+"8C17F4AC-C384-4A1F-BD5F-821C12AF061A" = 0.70175;
 };
 isItalic = 1;
 linkStyle = Medium;
@@ -54617,8 +54686,8 @@ value = "--default-script=latn --fallback-script=latn --windows-compatibility --
 interpolationWeight = 108;
 interpolationWidth = 5;
 instanceInterpolations = {
-"4E675A61-A531-4354-B628-4B264391FE65" = 0.649123;
-"8C17F4AC-C384-4A1F-BD5F-821C12AF061A" = 0.350877;
+"4E675A61-A531-4354-B628-4B264391FE65" = 0.64912;
+"8C17F4AC-C384-4A1F-BD5F-821C12AF061A" = 0.35088;
 };
 isBold = 1;
 isItalic = 1;
