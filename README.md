@@ -8,7 +8,7 @@ Faustina typeface is part of the new Omnibus-Type Press Series. Designed in four
 ![Sample of Faustina Family.](./documentation/Faustina.png "Faustina")
 
 
-####Faustina Family contains:
+#### Faustina Family contains:
 * Regular/Italic
 * Medium/Medium Italic
 * SemiBold/SemiBold Italic
@@ -70,7 +70,7 @@ If you make modifications be sure to add your name (N), email (E), web-address
 **W:** http://www.omnibus-type.com  
 **D:** Designer
 
-**N:** **Nicolas Silva Schwarzenberg**  
+**N:** **Nicolás Silva Schwarzenberg**  
 **E:** nsilva.design@gmail.com  
 **W:** http://www.omnibus-type.com  
 **D:** Typeface development  
