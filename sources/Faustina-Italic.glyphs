@@ -1,5 +1,5 @@
 {
-.appVersion = "1147";
+.appVersion = "1192";
 copyright = "Copyright 2016 The Faustina Project Authors (https://github.com/Omnibus-Type/Faustina)";
 customParameters = (
 {
@@ -30,6 +30,15 @@ value = 1;
 {
 name = "Use Line Breaks";
 value = 1;
+},
+{
+name = Axes;
+value = (
+{
+Name = Weight;
+Tag = wght;
+}
+);
 }
 );
 date = "2018-06-25 12:32:25 +0000";
@@ -57395,5 +57404,5 @@ manufacturer = "Omnibus-Type";
 manufacturerURL = "http://www.omnibus-type.com";
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 7;
+versionMinor = 100;
 }

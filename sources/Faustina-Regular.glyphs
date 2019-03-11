@@ -1,5 +1,5 @@
 {
-.appVersion = "1147";
+.appVersion = "1192";
 copyright = "Copyright 2016 The Faustina Project Authors (https://github.com/Omnibus-Type/Faustina)";
 customParameters = (
 {
@@ -30,6 +30,15 @@ value = 1;
 {
 name = "Use Line Breaks";
 value = 1;
+},
+{
+name = Axes;
+value = (
+{
+Name = Weight;
+Tag = wght;
+}
+);
 }
 );
 date = "2018-06-25 12:35:29 +0000";
@@ -11967,150 +11976,6 @@ nodes = (
 }
 );
 width = 731;
-},
-{
-anchors = (
-{
-name = bottom;
-position = "{428, 0}";
-},
-{
-name = top;
-position = "{428, 648}";
-}
-);
-associatedMasterId = "D905F18B-B0C6-4EFF-A833-0E5BFD426C49";
-background = {
-anchors = (
-{
-name = bottom;
-position = "{1090, 0}";
-},
-{
-name = center;
-position = "{1090, 324}";
-},
-{
-name = top;
-position = "{1090, 648}";
-},
-{
-name = topright;
-position = "{1418, 648}";
-}
-);
-paths = (
-{
-closed = 1;
-nodes = (
-"532 361 LINE",
-"681 566 LINE",
-"681 632 LINE",
-"600 652 OFFCURVE",
-"506 660 OFFCURVE",
-"450 660 CURVE SMOOTH",
-"227 660 OFFCURVE",
-"127 533 OFFCURVE",
-"127 342 CURVE SMOOTH",
-"127 59 LINE",
-"45 44 LINE",
-"45 0 LINE",
-"296 0 LINE",
-"296 44 LINE",
-"213 59 LINE",
-"213 370 LINE SMOOTH",
-"213 510 OFFCURVE",
-"251 601 OFFCURVE",
-"429 601 CURVE SMOOTH",
-"475 601 OFFCURVE",
-"527 595 OFFCURVE",
-"571 585 CURVE",
-"571 568 LINE",
-"422 349 LINE",
-"422 290 LINE",
-"460 290 LINE SMOOTH",
-"552 290 OFFCURVE",
-"635 271 OFFCURVE",
-"635 156 CURVE SMOOTH",
-"635 82 OFFCURVE",
-"600 48 OFFCURVE",
-"526 48 CURVE SMOOTH",
-"462 48 OFFCURVE",
-"434 73 OFFCURVE",
-"419 87 CURVE",
-"404 187 LINE",
-"350 187 LINE",
-"350 44 LINE",
-"377 17 OFFCURVE",
-"452 -10 OFFCURVE",
-"520 -10 CURVE SMOOTH",
-"615 -10 OFFCURVE",
-"721 44 OFFCURVE",
-"721 181 CURVE SMOOTH",
-"721 311 OFFCURVE",
-"626 348 OFFCURVE",
-"532 351 CURVE"
-);
-}
-);
-};
-layerId = "818D61AE-9B2A-4AC3-A28B-4C6E73A47172";
-name = "Semibold {114, 5}";
-paths = (
-{
-closed = 1;
-nodes = (
-"587 -14 OFFCURVE",
-"690 48 OFFCURVE",
-"690 181 CURVE SMOOTH",
-"690 289 OFFCURVE",
-"619 350 OFFCURVE",
-"504 363 CURVE",
-"504 372 LINE",
-"645 571 LINE",
-"645 637 LINE",
-"597 650 OFFCURVE",
-"486 664 OFFCURVE",
-"418 664 CURVE SMOOTH",
-"205 664 OFFCURVE",
-"99 533 OFFCURVE",
-"99 343 CURVE SMOOTH",
-"99 69 LINE",
-"18 52 LINE",
-"18 0 LINE",
-"291 0 LINE",
-"291 52 LINE",
-"221 69 LINE",
-"221 369 LINE SMOOTH",
-"221 511 OFFCURVE",
-"262 589 OFFCURVE",
-"402 589 CURVE SMOOTH",
-"441 589 OFFCURVE",
-"479 584 OFFCURVE",
-"512 577 CURVE",
-"512 565 LINE",
-"374 366 LINE",
-"374 296 LINE",
-"404 296 LINE SMOOTH",
-"534 296 OFFCURVE",
-"579 237 OFFCURVE",
-"579 162 CURVE SMOOTH",
-"579 105 OFFCURVE",
-"555 59 OFFCURVE",
-"492 59 CURVE SMOOTH",
-"452 59 OFFCURVE",
-"423 77 OFFCURVE",
-"410 90 CURVE",
-"392 192 LINE",
-"327 192 LINE",
-"327 27 LINE",
-"348 11 OFFCURVE",
-"417 -14 OFFCURVE",
-"483 -14 CURVE SMOOTH"
-);
-}
-);
-width = 732;
 }
 );
 leftMetricsKey = "=U";
@@ -33834,115 +33699,6 @@ width = 458;
 unicode = 1E93;
 },
 {
-glyphname = k.001;
-layers = (
-{
-anchors = (
-{
-name = bottom;
-position = "{140, 0}";
-},
-{
-name = top;
-position = "{140, 648}";
-}
-);
-layerId = "D905F18B-B0C6-4EFF-A833-0E5BFD426C49";
-paths = (
-{
-closed = 1;
-nodes = (
-"19 0 LINE",
-"259 0 LINE",
-"259 41 LINE",
-"181 55 LINE",
-"181 242 LINE",
-"233 242 LINE",
-"346 43 LINE",
-"350 37 OFFCURVE",
-"353 29 OFFCURVE",
-"353 18 CURVE SMOOTH",
-"353 0 LINE",
-"515 0 LINE",
-"515 41 LINE",
-"433 59 LINE",
-"300 289 LINE",
-"416 437 LINE",
-"476 453 LINE",
-"476 494 LINE",
-"284 494 LINE",
-"284 454 LINE",
-"343 441 LINE",
-"343 427 LINE",
-"237 295 LINE",
-"181 295 LINE",
-"181 690 LINE",
-"158 699 LINE",
-"19 677 LINE",
-"19 636 LINE",
-"99 622 LINE",
-"99 55 LINE",
-"19 41 LINE"
-);
-}
-);
-width = 489;
-},
-{
-anchors = (
-{
-name = bottom;
-position = "{161, 0}";
-},
-{
-name = top;
-position = "{161, 648}";
-}
-);
-layerId = "4843E09C-13E2-4232-9E55-A4E7C049DCE9";
-paths = (
-{
-closed = 1;
-nodes = (
-"16 0 LINE",
-"287 0 LINE",
-"287 55 LINE",
-"227 69 LINE",
-"227 237 LINE",
-"246 237 LINE",
-"349 53 LINE",
-"356 42 OFFCURVE",
-"359 32 OFFCURVE",
-"359 19 CURVE SMOOTH",
-"359 0 LINE",
-"569 0 LINE",
-"569 55 LINE",
-"482 80 LINE",
-"356 297 LINE",
-"463 430 LINE",
-"535 446 LINE",
-"535 499 LINE",
-"300 499 LINE",
-"300 442 LINE",
-"355 431 LINE",
-"355 422 LINE",
-"265 310 LINE",
-"227 310 LINE",
-"227 663 LINE",
-"200 699 LINE",
-"15 676 LINE",
-"15 623 LINE",
-"95 607 LINE",
-"95 69 LINE",
-"16 55 LINE"
-);
-}
-);
-width = 544;
-}
-);
-},
-{
 color = 7;
 glyphname = iacute_j.loclNLD;
 layers = (
@@ -41653,6 +41409,20 @@ width = 172;
 }
 );
 unicode = 00A0;
+},
+{
+glyphname = CR;
+layers = (
+{
+layerId = "D905F18B-B0C6-4EFF-A833-0E5BFD426C49";
+width = 201;
+},
+{
+layerId = "4843E09C-13E2-4232-9E55-A4E7C049DCE9";
+width = 172;
+}
+);
+unicode = 000D;
 },
 {
 glyphname = .notdef;
@@ -52943,20 +52713,6 @@ width = 347;
 );
 },
 {
-glyphname = CR;
-layers = (
-{
-layerId = "D905F18B-B0C6-4EFF-A833-0E5BFD426C49";
-width = 201;
-},
-{
-layerId = "4843E09C-13E2-4232-9E55-A4E7C049DCE9";
-width = 172;
-}
-);
-unicode = 000D;
-},
-{
 glyphname = NULL;
 layers = (
 {
@@ -56074,5 +55830,5 @@ manufacturer = "Omnibus-Type";
 manufacturerURL = "http://www.omnibus-type.com";
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 7;
+versionMinor = 100;
 }
