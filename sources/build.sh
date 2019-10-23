@@ -2,6 +2,7 @@
 set -e
 
 
+mkdir -p ../fonts ../fonts/otf ../fonts/ttf ../fonts/vf
 echo "Generating Static fonts"
 fontmake -g Faustina-Regular.glyphs -i -o ttf --output-dir ../fonts/ttf/
 fontmake -g Faustina-Italic.glyphs -i -o ttf --output-dir ../fonts/ttf/
@@ -9,8 +10,8 @@ fontmake -g Faustina-Regular.glyphs -i -o otf --output-dir ../fonts/otf/
 fontmake -g Faustina-Italic.glyphs -i -o otf --output-dir ../fonts/otf/
 
 echo "Generating VFs"
-fontmake -g Faustina-Regular.glyphs -o variable --output-path ../fonts/vf/Faustina-Roman-VF.ttf
-fontmake -g Faustina-Italic.glyphs -o variable --output-path ../fonts/vf/Faustina-Italic-VF.ttf
+fontmake -g Faustina-Regular.glyphs -o variable --output-path ../fonts/vf/Faustina[wght].ttf
+fontmake -g Faustina-Italic.glyphs -o variable --output-path ../fonts/vf/Faustina-Italic[wght].ttf
 
 rm -rf master_ufo/ instance_ufo/
 
@@ -25,7 +26,7 @@ do
 done
 
 echo "Post processing VFs"
-vfs=$(ls ../fonts/vf/*-VF.ttf)
+vfs=$(ls ../fonts/vf/*.ttf)
 for vf in $vfs
 do
 	gftools fix-dsig -f $vf;
