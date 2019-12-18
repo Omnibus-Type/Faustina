@@ -3,7 +3,7 @@
 **Omnibus-Type**  
 *SIL Open Font License, 1.1*
 
-Faustina typeface is part of the new Omnibus-Type Press Series. Designed in six styles (light, light italic, regular, italic, bold, bold italic, extrabold, extrabold italic) for print and online books, newspapers and magazines.
+Faustina typeface is part of the new Omnibus-Type Press Series. Designed in Twelve styles (light, light italic, regular, italic, medium, medium Italic, semibold, semibold italic, bold, bold italic, extrabold, extrabold italic) for print and online books, newspapers and magazines.
 
 ![Sample of Faustina Family.](./documentation/Faustina.png "Faustina")
 
@@ -17,7 +17,7 @@ Faustina typeface is part of the new Omnibus-Type Press Series. Designed in six 
 * Bold/Bold Italic
 * ExtraBold/ExtraBold Italic
 
-To contribute to the project contact [Omnibus-Type](http://omnibus-type.com/).
+To contribute to the project contact [Omnibus-Type](http://omnibus-type.com/)
 
 ### Designers
 
@@ -74,22 +74,22 @@ If you make modifications be sure to add your name (N), email (E), web-address
 (if you have one) (W) and description (D). This list is in alphabetical order.
 
 
+**N:** **Yorlmar Campos**  
+**E:** omnibus.type@gmail.com  
+**W:** http://www.omnibus-type.com  
+**D:** Typeface development 
+
 **N:** **Alfonso García**  
 **E:** omnibus.type@gmail.com  
 **W:** http://www.omnibus-type.com  
 **D:** Designer
-
-**N:** **Nicolás Silva Schwarzenberg**  
-**E:** nsilva.design@gmail.com  
-**W:** http://www.omnibus-type.com  
-**D:** Typeface development
 
 **N:** **Martín Sesto**  
 **E:** omnibus.type@gmail.com  
 **W:** http://www.omnibus-type.com  
 **D:** Typeface development
 
-**N:** **Yorlmar Campos**  
-**E:** omnibus.type@gmail.com  
+**N:** **Nicolás Silva Schwarzenberg**  
+**E:** nsilva.design@gmail.com  
 **W:** http://www.omnibus-type.com  
-**D:** Typeface development  
+**D:** Typeface development

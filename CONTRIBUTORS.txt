@@ -10,6 +10,7 @@
 # Name <email address>
 
 Omnibus-Type <omnibus.type@gmail.com>
+Nicolás Silva Schwarzenberg <nsilva.design@gmail.com>
 Marc Foley <m.foley.88@gmail.com>
 Martín Sesto <omnibus.type@gmail.com>
 Yorlmar Campos <omnibus.type@gmail.com>
