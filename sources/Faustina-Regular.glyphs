@@ -1,5 +1,5 @@
 {
-.appVersion = "1274";
+.appVersion = "1290";
 classes = (
 {
 automatic = 1;
@@ -60,9 +60,21 @@ value = (
 "{-165, -12}",
 "{-215, 12}"
 );
+},
+{
+name = "Variable Font Family Name";
+value = Faustina;
+},
+{
+name = "Variable Font File Name";
+value = Faustina;
+},
+{
+name = "Variable Font Origin";
+value = "4c090d2b-0954-42f9-b8fa-9b61004e66c3";
 }
 );
-date = "2019-11-21 22:54:50 +0000";
+date = "2020-02-19 00:29:14 +0000";
 designer = "Alfonso Garcia";
 designerURL = "http://www.omnibus-type.com/garcia";
 familyName = Faustina;
